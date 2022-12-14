@@ -13,3 +13,8 @@ Now I am studying courses for the specialty FrontEnd Developer
 * CSS starter
 * JavaScript starter
 * GIT basics
+
+### Languages
+* Ukrainian - native
+* Russian - native
+* English - A2

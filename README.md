@@ -1,1 +1,1 @@
-https://Julia-study.github.io/rsschool-cv/cv
+https://Julia-study.github.io/rsschool-cv/
